@@ -97,25 +97,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <p>Check out our past issues - <a href="http://eepurl.com/VrUyn"> 01</a>, <a href="http://eepurl.com/V0dOj"> 02</a>, <a href="http://eepurl.com/Wrinz"> 03</a></p>
 </div>
 
-<!--End mc_embed_signup-->
 
-					<!--<div class="button-holder"><a href="#" class="button"><u>Click Here</u> To Add To Cart </a></div>-->
-					<!--<a href="#" class="link">Click Here To Buy This Product</a>-->
-					
-					<!--<div class="icons">
-						<div class="secure">
-							<img src="img/secure-icon.png" width="25" height="35" alt=""/>
-							<p>SECURE PAYMENT</p>
-							<div class="cl"></div>
-						</div>
-						<div class="card">
-							<img src="img/visa.png" width="41" height="28" alt="" />
-							<img src="img/master-card.png" width="41" height="28" alt="" />
-							<img src="img/amex.png" width="41" height="28" alt="" />
-							<img src="img/discover.png" width="41" height="28" alt="" />
-						</div>
-						<div class="cl"></div>
-					</div>-->
 				</div>
 				
 				
